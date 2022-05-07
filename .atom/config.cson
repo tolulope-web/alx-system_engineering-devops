@@ -1,0 +1,11 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "96f5c914-7f65-4019-be13-4c093aec4097"
+  core:
+    telemetryConsent: "limited"
+  "exception-reporting":
+    userId: "c6fe0290-16aa-40ca-98b6-1187a810ab47"
+  "linter-ui-default": {}
+  "tree-view":
+    hideVcsIgnoredFiles: true
